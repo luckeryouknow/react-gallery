@@ -1,0 +1,29 @@
+.InputBlock {
+  display: flex;
+  width: 80%;
+  max-width: 450px;
+  margin: 75px auto 75px auto;
+}
+
+.Input {
+  width: 100%;
+  padding: 10px 15px;
+  border: 3px solid #d7dbdf;
+  border-right: none;
+  border-radius: 0.35em 0 0 0.35em;
+  font-size: 1em;
+  background-color: #edeff0;
+  outline: none;
+}
+
+.InputButton {
+  width: 60px;
+  border: none;
+  padding: 0 15px;
+  border-radius: 0 0.35em 0.35em 0;
+  font-size: 1.5em;
+  background-color: #051c33;
+  color: white;
+  outline: none;
+  cursor: pointer;
+}
